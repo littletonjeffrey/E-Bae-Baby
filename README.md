@@ -1,4 +1,4 @@
- # E-Bae™: A Nodejs Inventory Management Application
+ # E-Bae™:  A Nodejs Inventory Management Application
   ![License: MIT](https://img.shields.io/static/v1?label=License&message=MIT&color=yellow&style=for-the-badge)<br>
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
@@ -175,5 +175,5 @@ For answers to common questions about this code of conduct, see the FAQ at
   [MIT](https://opensource.org/licenses/MIT)
 
   
-† E-bae™ is not responsible for your employees flat-out refusing to use this antiquated and outdated software for managing your inventory and eventually resorting to an Excel spreadsheet or pen and paper.  
+† E-bae™ is not responsible for your employees flat-out refusing to use this antiquated and outdated software for managing your inventory and inevitably resorting to an Excel spreadsheet or pen and paper.  
   
