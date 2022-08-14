@@ -3,7 +3,7 @@
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
   ## Description
-  Tired of convenient, easy to use, expensive GUI's for updating your company's inventory?  Would you like to ensure that the task of managing your company's inventory is as tedious and cumbersome for your minimum-wage paid employees as every other demeaning task you expect of them?  Allow us to introduce you to E-bae™ Baby!  Modern software not only allows your employees to possibly have some free time to slack around, but it's costly as well.  We cut the costs of using a front-end frame work and pass on a fraction of those savings on to you.  Not enough to outweigh the inconvenience of using our program, but enough that you'll buy ours to save a buck.  It's not like you're going to have to use this program, that's what your expendable retail worker is for!
+  Tired of convenient, easy to use, expensive GUI's for updating and managing your company's inventory?  Would you like to ensure that the task of managing your company's inventory is as tedious and cumbersome for your minimum-wage paid employees as every other demeaning task you expect of them? Do you value making sure your expense budget is in the black so you can guarantee your next quarterly bonus?  Allow us to introduce you to E-bae™ Baby!  Modern software not only allows your employees to possibly have some free time to slack around, but it's costly as well.  We cut the costs of using a front-end frame work and pass a fraction of those savings on to you.  Not enough to outweigh the inconvenience of using our program, but enough that you'll buy ours to save a buck.  It's not like you're going to have to use this program, that's what your expendable retail worker is for!
   
   ## Table of contents
   - [Description](#description)
@@ -15,18 +15,18 @@
   - [Questions](#questions)
   
   ## Installation
-  You will need to make sure you install all the dependent node packages needed for this application to function correctly.  As a business owner, we know that's all gibberish to you.  Just tell your field IT guy (you know, you're cousin's kid who dropped out of that coding bootcamp) to remember to "npm i".  You'll seem WAY more knowledgable than you actually are, and it's all about perception right?
+  You will need to make sure you install all the dependent node packages needed for this application to function correctly.  As a business owner, we know that's all gibberish to you.  Just tell your field IT guy (you know, your cousin's kid who dropped out of that coding bootcamp) to remember to "npm i".  You'll seem WAY more knowledgable than you actually are, and it's all about perception right?
   
   ## Usage
-Since we spared you the cost of paying for ANY front end frame-work, you're gonna have to utilitze our program in conjuction with Insomnia (or any fast REST client).  Don't worry, it's free!  After that, just select the API call you want to make based on the corresponding CRUD method and Model.  If you're average retail worker looks blankly as you explain this to them, go ahead an have them start calling your company's tech support now (we are guessing since you chose to actually use this software that call volumes will be "higher then average")†. 
-  ## Contributors
+Since we spared you the cost of paying for ANY front end frame-work, our program will have to be utilized in conjuction with Insomnia (or any fast REST client).  Don't worry, it's free!  After that, just select the API call you want to make based on the corresponding CRUD methodology and pre-set Model.  If you're average retail worker looks blankly as you explain this to them, go ahead and have them start calling your company's tech support now (since you've chose to purchase this software that call volumes will be "higher then average")†. 
+ 
+ ## Contributors
  
 Partner in Crime: [Sara Baqla](https://github.com/missatrox44)
 
 Syntax Sorcerer: [Kurt Bixby](https://www.github.com/kurtbixby)
             
-            
-  ## Demo
+## Demo
   Watch our app in action on [here]()!
   
   ## Contributing
