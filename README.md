@@ -22,6 +22,7 @@ Since we spared you the cost of paying for ANY front end frame-work, you're gonn
   ## Contributors
  
 Partner in Crime: [Sara Baqla](https://github.com/missatrox44)
+
 Syntax Sorcerer: [Kurt Bixby](https://www.github.com/kurtbixby)
             
             
